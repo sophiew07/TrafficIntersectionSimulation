@@ -5,6 +5,8 @@ This program requires a circuit created on a breadboard (refer to Diagrams folde
 Breadboard with electrical components:
 
 ![image](https://github.com/sophiew07/TrafficIntersectionSimulation/assets/138841909/f84a9665-0a95-4a66-a56f-3d07ca38c15d)
+![image](https://github.com/sophiew07/TrafficIntersectionSimulation/assets/138841909/dd2c9706-7388-44a6-b4b3-f2c8267470c3)
+
 
 Micro:bit:
 
