@@ -7,4 +7,4 @@ Example breadboard with micro:bit, micro:bit edge connector, and electrical comp
 ![image](https://github.com/sophiew07/TrafficIntersectionSimulation/assets/138841909/dd2c9706-7388-44a6-b4b3-f2c8267470c3)
 
 
-This project was accomplished with a partner, Celina Wang.
+This project was accomplished with a partner.
